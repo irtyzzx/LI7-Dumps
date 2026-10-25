@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.tr_region.brand=TECNO
+ro.product.tr_region.device=FULL-64-ARMV82
+ro.product.tr_region.manufacturer=TECNO
+ro.product.tr_region.model=
+ro.product.tr_region.name=TSSI
+ro.tr_region.build.date=Fri Oct 10 17:44:16 CST 2025
+ro.tr_region.build.date.utc=1760089456
+ro.tr_region.build.fingerprint=TECNO/TSSI/FULL-64-ARMV82:15/AP3A.240905.015.A2/251010V434:user/release-keys
+ro.tr_region.build.id=AP3A.240905.015.A2
+ro.tr_region.build.tags=release-keys
+ro.tr_region.build.type=user
+ro.tr_region.build.version.incremental=251010V434
+ro.tr_region.build.version.release=15
+ro.tr_region.build.version.release_or_codename=15
+ro.tr_region.build.version.sdk=35
+####################################
+# from variable PRODUCT_TR_REGION_PROPERTIES
+####################################
+# end of file
